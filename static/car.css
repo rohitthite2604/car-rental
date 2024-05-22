@@ -1,0 +1,49 @@
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+.products h2{
+    font-size: 29px;
+   text-align: center; 
+ }
+ .image img{
+   width:  472px;
+    height: 313px;
+ }
+ .products .box-cont{
+     display: inline-block;
+ }
+ .row {
+     display: flex;
+     width: 100%;
+ }
+ .col-lg-4.col-sm-6 {
+     padding: 13px;
+     border: 2px groove;
+ }
+ .btn-success {
+     color: #fff;
+     background-color: deeppink;
+     border-color: deeppink;
+     border-radius: 4px;
+ }
+ .btn {
+     padding: 12px;
+     padding-right: 202px;
+     padding-left: 205px;
+     font-size: 13px;
+     cursor: pointer;
+ }
